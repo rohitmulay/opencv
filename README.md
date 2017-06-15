@@ -1,5 +1,5 @@
 # opencv
-Installation of OpenCV C++ library on a Linux(Ubuntu 16.04) operating system. 
+<b><h2>Installation of OpenCV C++ library on a Linux(Ubuntu 16.04) operating system.</h2></b> 
 
 First, make sure that your terminal has access to the internet. (If you are using a Proxy network please visit https://github.com/rohitmulay/setproxy )
 
