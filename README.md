@@ -1,15 +1,15 @@
 # opencv
 <b><h2>Installation of OpenCV C++ library on a Linux(Ubuntu 16.04) operating system.</h2></b> 
 
-First, Update and Upgrade using the following commands: 
+First, make sure that your terminal has access to the internet. (If you are using a Proxy network please visit https://github.com/rohitmulay/setproxy )
+
+Then, Update and Upgrade using the following commands: 
 
 `sudo apt-get update`        # Fetches the list of available updates
 
 `sudo apt-get upgrade`       # Strictly upgrades the current packages
 
 `sudo apt-get dist-upgrade`  # Installs updates (new ones)
-
-Then, make sure that your terminal has access to the internet. (If you are using a Proxy network please visit https://github.com/rohitmulay/setproxy )
 
 Download <b>OpenCV-3.2.0.zip</b> (The Latest Version) from http://opencv.org/ and place it in one directory say “opencvdrive”. 
 
