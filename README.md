@@ -34,5 +34,5 @@ The output should be: <b>-L/usr/local/lib -lopencv_shape -lopencv_stitching -lop
 
 If you get the above outputs you are now good to run a OpenCV program which can be in C/C++, Python or Java…etc.
 
-To compile a OpenCV program you have to give the command: <b>"g++ `pkg-config --cflags opencv` filename.cpp `pkg-config --libs opencv`</b> and then <b> ./a.out</b> to run it. 
+To compile a OpenCV program you have to give the command: <b>"g++ \`pkg-config --cflags opencv\` filename.cpp \`pkg-config --libs opencv\`</b> and then <b> ./a.out</b> to run it. ( In this command (\`) is a backtick not single quotation/single inverted commas (') )
 <a href="https://ibb.co/nPVxOQ"><img src="https://preview.ibb.co/b5UDxk/Picture4.png" alt="Picture4" border="0" /></a>
